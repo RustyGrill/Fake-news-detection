@@ -25,7 +25,7 @@ Acquired a labeled dataset containing real and fake news articles.
 2. Data Preprocessing\
 Removed null entries, punctuation, and stopwords.
 
-Tokenized and cleaned the news content for further analysis.
+  Tokenized and cleaned the news content for further analysis.
 
 3. Feature Extraction\
 Used Count Vectorization to convert text into numerical feature vectors.
@@ -33,29 +33,29 @@ Used Count Vectorization to convert text into numerical feature vectors.
 4. Model Building\
 Trained two classifiers:
 
-* Logistic Regression
+  * Logistic Regression
 
-* Random Forest
+  * Random Forest
 
-Used Scikit-learn for implementation.
+  Used Scikit-learn for implementation.
 
 5. Model Evaluation\
 Evaluated both models using:
 
-* Accuracy
+  * Accuracy
 
-* Precision
+  * Precision
 
-* Recall
+  * Recall
 
-* F1-Score
+  * F1-Score
 
-Performed 5-fold cross-validation for robustness.
+  Performed 5-fold cross-validation for robustness.
 
 6. Results and Comparison\
 Both models achieved high accuracy, confirming the effectiveness of traditional ML techniques for text classification.
 
-Logistic Regression showed faster training time, while Random Forest provided better interpretability in terms of feature importance.
+  Logistic Regression showed faster training time, while Random Forest provided better interpretability in terms of feature importance.
 
 
 ## 🚀 Future Improvements
