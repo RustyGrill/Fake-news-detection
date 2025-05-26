@@ -58,5 +58,21 @@ Both models achieved high accuracy, confirming the effectiveness of traditional 
 Logistic Regression showed faster training time, while Random Forest provided better interpretability in terms of feature importance.
 
 
+## 🚀 Future Improvements
+* Use of More Advanced Text Representations
+  Word2Vec, GloVe, or FastText for capturing semantic relationships.
+  TF-IDF Vectorization to weigh more informative terms.
+  
+*  Incorporating NLP Preprocessing
+  for example: Lemmatization/Stemming, Named Entity Recognition (NER).
+   
+*  Handling Imbalanced Datasets
+   Using SMOTE or ADASYN for oversampling
+   Applying class weighting in models
+   
+*  Real-Time Fake News Detection
+   Deploying the models as a web service using Flask/Django, Streamlit, etc.
+  
+
 
 
