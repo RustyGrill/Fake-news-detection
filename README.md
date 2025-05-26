@@ -73,7 +73,11 @@ Both models achieved high accuracy, confirming the effectiveness of traditional 
 *  Real-Time Fake News Detection
    Deploying the models as a web service using Flask/Django, Streamlit, etc.
 
-   mkdir images
+ ## 📊 Results
+
+Here is a sample result of the model performance:
+
+![Accuracy and precison using Logistic regression]([images/results.png](https://github.com/RustyGrill/Fake-news-detection/blob/main/images/WhatsApp%20Image%202025-05-27%20at%2000.14.39_fe632eb2.jpg))
 
   
 
