@@ -1,7 +1,7 @@
 # Fake-news-detection
 A Machine learning approach to fake news detection and classification
 
-# 📋 Overview
+## 📋 Overview
 
 This project focuses on the detection and classification of fake news using traditional machine learning techniques. By applying Logistic Regression and Random Forest models, we aim to accurately distinguish between real and fake news articles based on their textual content.
 
