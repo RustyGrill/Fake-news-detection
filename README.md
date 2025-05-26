@@ -7,7 +7,7 @@ This project focuses on the detection and classification of fake news using trad
 
 The repository includes data preprocessing, model training, evaluation, and comparison of performance metrics. The goal is to demonstrate that even classical machine learning models can effectively address the problem of fake news classification when paired with proper feature engineering.
 
-✅ Features
+## ✅ Features
 
 ->Clean and modular Python implementation
 
@@ -17,7 +17,7 @@ The repository includes data preprocessing, model training, evaluation, and comp
 
 ->Performance evaluation using accuracy, precision, recall, and F1-score
 
-🔄 Workflow
+## 🔄 Workflow
 1. Dataset Collection
 Acquired a labeled dataset containing real and fake news articles.
 
