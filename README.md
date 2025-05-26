@@ -72,6 +72,9 @@ Both models achieved high accuracy, confirming the effectiveness of traditional 
    
 *  Real-Time Fake News Detection
    Deploying the models as a web service using Flask/Django, Streamlit, etc.
+
+   mkdir images
+
   
 
 
