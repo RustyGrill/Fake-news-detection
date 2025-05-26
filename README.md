@@ -9,13 +9,13 @@ The repository includes data preprocessing, model training, evaluation, and comp
 
 ## ✅ Features
 
-->Clean and modular Python implementation
+* Clean and modular Python implementation
 
-->Data preprocessing and vectorization (Count vectorization)
+* Data preprocessing and vectorization (Count vectorization)
 
-->Implementation of Logistic Regression and Random Forest
+* Implementation of Logistic Regression and Random Forest
 
-->Performance evaluation using accuracy, precision, recall, and F1-score
+* Performance evaluation using accuracy, precision, recall, and F1-score
 
 ## 🔄 Workflow
 1. Dataset Collection
