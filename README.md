@@ -80,6 +80,15 @@ Here is a sample result of the model performance:
 <h2>Accuracy and precison using Logistic regression</h2>
 <img src="images/WhatsApp Image 2025-05-27 at 00.14.39_fe632eb2.jpg" alt="Model Results" width="600"/>
 
+<h2>Confusion matrix using Logistic regression</h2>
+<img src="images/WhatsApp Image 2025-05-27 at 00.14.54_0904be53.jpg" alt="Model Results" width="600"/>
+
+<h2>Accuracy and precison using Random_forest</h2>
+<img src="images/WhatsApp Image 2025-05-27 at 00.25.39_da8a0e92.jpg" alt="Model Results" width="600"/>
+
+<h2>Confusion matrix using Random_forest</h2>
+<img src="images/WhatsApp Image 2025-05-27 at 00.27.07_a24bca4d.jpg" alt="Model Results" width="600"/>
+
 
   
 
