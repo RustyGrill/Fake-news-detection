@@ -22,15 +22,15 @@ The repository includes data preprocessing, model training, evaluation, and comp
 Acquired a labeled dataset containing real and fake news articles.
 
 
-2. Data Preprocessing
+2. Data Preprocessing\
 Removed null entries, punctuation, and stopwords.
 
 Tokenized and cleaned the news content for further analysis.
 
-3. Feature Extraction
+3. Feature Extraction\
 Used Count Vectorization to convert text into numerical feature vectors.
 
-4. Model Building
+4. Model Building\
 Trained two classifiers:
 
 * Logistic Regression
@@ -39,7 +39,7 @@ Trained two classifiers:
 
 Used Scikit-learn for implementation.
 
-5. Model Evaluation
+5. Model Evaluation\
 Evaluated both models using:
 
 * Accuracy
@@ -52,7 +52,7 @@ Evaluated both models using:
 
 Performed 5-fold cross-validation for robustness.
 
-6. Results and Comparison
+6. Results and Comparison\
 Both models achieved high accuracy, confirming the effectiveness of traditional ML techniques for text classification.
 
 Logistic Regression showed faster training time, while Random Forest provided better interpretability in terms of feature importance.
