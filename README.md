@@ -42,13 +42,13 @@ Trained two classifiers:
 5. Model Evaluation\
 Evaluated both models using:
 
-  * Accuracy
+  - Accuracy
 
-  * Precision
+  - Precision
 
-  * Recall
+  - Recall
 
-  * F1-Score
+  - F1-Score
 
   &nbsp;&nbsp;Performed 5-fold cross-validation for robustness.
 
