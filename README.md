@@ -18,7 +18,7 @@ The repository includes data preprocessing, model training, evaluation, and comp
 * Performance evaluation using accuracy, precision, recall, and F1-score
 
 ## 🔄 Workflow
-1. Dataset Collection
+1. Dataset Collection\
 Acquired a labeled dataset containing real and fake news articles.
 
 
