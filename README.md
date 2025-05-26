@@ -25,7 +25,7 @@ Acquired a labeled dataset containing real and fake news articles.
 2. Data Preprocessing\
 Removed null entries, punctuation, and stopwords.
 
-  Tokenized and cleaned the news content for further analysis.
+&nbsp;Tokenized and cleaned the news content for further analysis.
 
 3. Feature Extraction\
 Used Count Vectorization to convert text into numerical feature vectors.
