@@ -33,11 +33,11 @@ Used Count Vectorization to convert text into numerical feature vectors.
 4. Model Building\
 Trained two classifiers:
 
- &nbsp;&nbsp;&nbsp;&nbsp; * Logistic Regression
+* Logistic Regression
 
- &nbsp;&nbsp;&nbsp;&nbsp; * Random Forest
+* Random Forest
 
-  Used Scikit-learn for implementation.
+  &nbsp;&nbsp;&nbsp;Used Scikit-learn for implementation.
 
 5. Model Evaluation\
 Evaluated both models using:
