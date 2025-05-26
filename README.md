@@ -77,7 +77,9 @@ Both models achieved high accuracy, confirming the effectiveness of traditional 
 
 Here is a sample result of the model performance:
 
-![Accuracy and precison using Logistic regression]([images/results.png](https://github.com/RustyGrill/Fake-news-detection/blob/main/images/WhatsApp%20Image%202025-05-27%20at%2000.14.39_fe632eb2.jpg))
+<h2>Accuracy and precison using Logistic regression</h2>
+<img src="images/WhatsApp Image 2025-05-27 at 00.14.39_fe632eb2.jpg" alt="Model Results" width="600"/>
+
 
   
 
