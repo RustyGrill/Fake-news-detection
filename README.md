@@ -37,7 +37,7 @@ Trained two classifiers:
 
 * Random Forest
 
-  &nbsp;&nbsp;&nbsp;Used Scikit-learn for implementation.
+  &nbsp;&nbsp;Used Scikit-learn for implementation.
 
 5. Model Evaluation\
 Evaluated both models using:
@@ -50,12 +50,12 @@ Evaluated both models using:
 
   * F1-Score
 
-  Performed 5-fold cross-validation for robustness.
+  &nbsp;&nbsp;Performed 5-fold cross-validation for robustness.
 
 6. Results and Comparison\
 Both models achieved high accuracy, confirming the effectiveness of traditional ML techniques for text classification.
 
-  Logistic Regression showed faster training time, while Random Forest provided better interpretability in terms of feature importance.
+  &nbsp;&nbsp;Logistic Regression showed faster training time, while Random Forest provided better interpretability in terms of feature importance.
 
 
 ## 🚀 Future Improvements
