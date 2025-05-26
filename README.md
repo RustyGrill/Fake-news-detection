@@ -48,7 +48,7 @@ Evaluated both models using:
 
   * Recall
 
-  * F1-Score\
+  * F1-Score
 
   Performed 5-fold cross-validation for robustness.
 
